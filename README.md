@@ -1,2 +1,3 @@
-# Data_cleaning
-Data cleaning and data warngling process is entained with R and Pyhton.
+This repository provides a concise, practical guide to data cleaning in R, based on the article published on AKSTATS. It covers essential techniques for preparing raw datasets for reliable analysis and modeling. The content walks through common data issues and demonstrates how to handle missing values, remove duplicates, manage outliers, standardize formats, and transform variables using R’s core libraries such as dplyr, tidyr, and stringr.
+
+The goal is to equip learners and practitioners with a clear, hands-on approach to building clean, consistent, and analysis-ready data structures. This repository serves as a quick reference for anyone working with R in data science, analytics, or statistical modeling.
